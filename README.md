@@ -9,3 +9,9 @@
 \<version> Version of the project that is being built.
 <br>
 \<packaging> How the project should be packaged. Defaults to "jar" for JAR file packaging. Use "war" for WAR file packaging.
+<br>
+\<groupId> The group or organization that the dependency belongs to.
+<br>
+\<artifactId> The library that is required.
+<br>
+\<version> The specific version of the library that is required.
